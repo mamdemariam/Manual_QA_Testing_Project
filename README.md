@@ -40,6 +40,6 @@ The following template is used for documenting bugs identified during testing:
 To clone this repository, run the following command:
 
 ```bash
-git clone https://github.com/yourusername/qa-testing-project.git
+git clone https://github.com/mamdemariam/Manual_QA_Projects.git
 
    
