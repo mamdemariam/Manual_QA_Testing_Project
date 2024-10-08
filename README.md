@@ -36,6 +36,10 @@ The following template is used for documenting bugs identified during testing:
 
 
 ## How to Use
-1. **Clone the repository**:  
-   ```bash
+
+To clone this repository, run the following command:
+
+```bash
+git clone https://github.com/yourusername/qa-testing-project.git
+
    
