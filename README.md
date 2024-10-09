@@ -35,6 +35,10 @@ The following template is used for documenting bugs identified during testing:
 | BUG001 | Example Bug      | Brief description of the bug    | TC001             | Medium  |   Medium  | Chrome 127.0.6533.100 (64-bit)| Expected outcome description | Actual outcome description| User is logged in          | 1. Step one <br> 2. Step two <br> 3. Observe result | Open   | [Name]      | [Your Name] | [Date]        | [File Link] |
 
 
+## Contact Information
+
+For any inquiries or feedback, please reach out to me on LinkedIn: linkedin.com/in/mikael-tadesse-9296b439
+
 ## How to Use
 
 To clone this repository, run the following command:
