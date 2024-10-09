@@ -42,10 +42,4 @@ For any inquiries or feedback, please reach out to me on LinkedIn: linkedin.com/
 To clone this repository, run the following command:
 
 ```bash
-git clone https://github.com/mamdemariam/Manual_QA_Projects.git
-
-
-
-
-
-   
+git clone https://github.com/mamdemariam/Manual_QA_Projects.git  
